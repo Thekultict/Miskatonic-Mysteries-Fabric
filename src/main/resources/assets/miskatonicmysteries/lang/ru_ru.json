@@ -336,7 +336,7 @@
 	"miskatonicmysteries.command.get_sanity.self": "Ваш уровень здравомыслия составляет %d",
 	"miskatonicmysteries.command.learn_medium": "%s выучил %d",
 	"miskatonicmysteries.command.learn_medium.self": "Выучил %d",
-	"miskatonicmysteries.command.learn_spell": Успешно обучил %s %d",
+	"miskatonicmysteries.command.learn_spell": "Успешно обучил %s %d",
 	"miskatonicmysteries.command.learn_spell.self": "Успешно обучился %d",
 	"miskatonicmysteries.command.miskatonicmysteries.get_sanity": "Здравомыслие %s - %d",
 	"miskatonicmysteries.command.remove_blessing": "Благославление %s: удалено %s",
